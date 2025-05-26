@@ -41,13 +41,17 @@ Este proyecto utiliza el dataset de IBM HR Analytics Employee Attrition & Perfor
 
 Identificar los factores clave que afectan la rotación y satisfacción de los empleados, proporcionando visualizaciones y modelos predictivos útiles para la toma de decisiones en recursos humanos.
 
----
+github.com/santiagomalak
 
-**Autor:**
+=======
 Santiago Arrgano Malak
 
 MAIl:
 santiagoaragonmalak@gmail.com
 
+GitHub:
+https://github.com/santiagomalak
+
 Linkedin:
 https://www.linkedin.com/in/aragonmalak/
+
